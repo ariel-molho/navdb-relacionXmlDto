@@ -1,0 +1,274 @@
+{
+"relacionXmlDto": [
+  {
+   "_id": {
+     "$oid": "6040d8cabe4ee304fc24d977"
+   },
+   "id": "6040d8cabe4ee304fc24d977",
+   "Nombre": "Trovit AR",
+   "ProveedorId": "5c6f0f93aabfbf00c0abbc90",
+   "PaisId": "Ar"
+  },
+  {
+   "_id": {
+     "$oid": "6040e8fdbe4ee304fc24d9f0"
+   },
+   "id": "6040e8fdbe4ee304fc24d9f0",
+   "Nombre": "IW (All Brasil) | Trovit",
+   "ProveedorId": "5c6f0f93aabfbf00c0abbc90",
+   "PaisId": "Br"
+  },
+  {
+   "_id": {
+     "$oid": "6040e907be4ee304fc24da49"
+   },
+   "id": "6040e907be4ee304fc24da49",
+   "Nombre": "PL_Ecuador_Trovit",
+   "ProveedorId": "5c6f0f93aabfbf00c0abbc90",
+   "PaisId": "Ec"
+  },
+  {
+   "_id": {
+     "$oid": "6040ebdcbe4ee304fc24da96"
+   },
+   "id": "6040ebdcbe4ee304fc24da96",
+   "Nombre": "Criteo_BR",
+   "ProveedorId": "5cc889d21debe60a84e4c104",
+   "PaisId": "Br"
+  },
+  {
+   "_id": {
+     "$oid": "6040ebdebe4ee304fc24daa6"
+   },
+   "id": "6040ebdebe4ee304fc24daa6",
+   "Nombre": "Smartly_Jumbo_2021",
+   "ProveedorId": "5cf166d898a4110d2c8bc741",
+   "PaisId": "Br"
+  },
+  {
+   "_id": {
+     "$oid": "6040ebe0be4ee304fc24dab6"
+   },
+   "id": "6040ebe0be4ee304fc24dab6",
+   "Nombre": "Mitula URB",
+   "ProveedorId": "5c6f01ce46582314180b423a",
+   "PaisId": "PEURB"
+  },
+  {
+   "_id": {
+     "$oid": "6040ebe1be4ee304fc24dac6"
+   },
+   "id": "6040ebe1be4ee304fc24dac6",
+   "Nombre": "ADV_Peru_Trovit\t",
+   "ProveedorId": "5c6f0f93aabfbf00c0abbc90",
+   "PaisId": "Pe"
+  },
+  {
+   "_id": {
+     "$oid": "6040ebe4be4ee304fc24dad6"
+   },
+   "id": "6040ebe4be4ee304fc24dad6",
+   "Nombre": "WI | RENT | FB Home Listings (All Images)",
+   "ProveedorId": "5c4f10320d40870a50f67f13",
+   "PaisId": "Br"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec15be4ee304fc24dadf"
+   },
+   "id": "6040ec15be4ee304fc24dadf",
+   "Nombre": "COA-RENT-FB-Home-Listings",
+   "ProveedorId": "5c4f10320d40870a50f67f13",
+   "PaisId": "Pa"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec16be4ee304fc24dae7"
+   },
+   "id": "6040ec16be4ee304fc24dae7",
+   "Nombre": "Facebook Product Listing Verified PA-COA",
+   "ProveedorId": "5cec9b19c1b25317c06a45d1",
+   "PaisId": "Pa"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec16be4ee304fc24daef"
+   },
+   "id": "6040ec16be4ee304fc24daef",
+   "Nombre": "I24_Rent_FB-HomeListings",
+   "ProveedorId": "5c4f10320d40870a50f67f13",
+   "PaisId": "Mx"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec18be4ee304fc24daf7"
+   },
+   "id": "6040ec18be4ee304fc24daf7",
+   "Nombre": "ZP-RTB",
+   "ProveedorId": "5c4f650f6f88ce1270c7e532",
+   "PaisId": "Ar"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec19be4ee304fc24daff"
+   },
+   "id": "6040ec19be4ee304fc24daff",
+   "Nombre": "IW | RENT | FB Home Listings (April 2019)",
+   "ProveedorId": "5c4f10320d40870a50f67f13",
+   "PaisId": "Br"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec1abe4ee304fc24db07"
+   },
+   "id": "6040ec1abe4ee304fc24db07",
+   "Nombre": "AR | Google Ads | URL Listing",
+   "ProveedorId": "5c76e395035e1d103cca66a9",
+   "PaisId": "Ar"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec1bbe4ee304fc24db0f"
+   },
+   "id": "6040ec1bbe4ee304fc24db0f",
+   "Nombre": "Facebook Product Listing Verified PE-URB",
+   "ProveedorId": "5cec9b19c1b25317c06a45d1",
+   "PaisId": "PEURB"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec1bbe4ee304fc24db17"
+   },
+   "id": "6040ec1bbe4ee304fc24db17",
+   "Nombre": "Facebook Product Listing_Test",
+   "ProveedorId": "5cec8020c1b25317c06a45a7",
+   "PaisId": "Pe"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec1cbe4ee304fc24db1f"
+   },
+   "id": "6040ec1cbe4ee304fc24db1f",
+   "Nombre": "GLOBALTASKIDTEST",
+   "ProveedorId": "5cec9b19c1b25317c06a45d1",
+   "PaisId": "Ar"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec1dbe4ee304fc24db27"
+   },
+   "id": "6040ec1dbe4ee304fc24db27",
+   "Nombre": "IW-SALE-FB-Home-Listings",
+   "ProveedorId": "5c4f10320d40870a50f67f13",
+   "PaisId": "Br"
+  },
+  {
+   "_id": {
+     "$oid": "6040ec1fbe4ee304fc24db2f"
+   },
+   "id": "6040ec1fbe4ee304fc24db2f",
+   "Nombre": "Smartly_MX",
+   "ProveedorId": "5c9526c8622c7d1364163480",
+   "PaisId": "Mx"
+  },
+  {
+   "_id": {
+     "$oid": "60413b25be4ee304fc24db87"
+   },
+   "id": "60413b25be4ee304fc24db87",
+   "Nombre": "PL_Sale_FB-HomeListings",
+   "ProveedorId": "5c4f10320d40870a50f67f13",
+   "PaisId": "Ec"
+  },
+  {
+   "_id": {
+     "$oid": "60413b25be4ee304fc24db8b"
+   },
+   "id": "60413b25be4ee304fc24db8b",
+   "Nombre": "Facebook Product Listing Verified AR-ZP",
+   "ProveedorId": "5cec9b19c1b25317c06a45d1",
+   "PaisId": "Ar"
+  },
+  {
+   "_id": {
+     "$oid": "60413b26be4ee304fc24db8f"
+   },
+   "id": "60413b26be4ee304fc24db8f",
+   "Nombre": "URB-RTB",
+   "ProveedorId": "5c4f650f6f88ce1270c7e532",
+   "PaisId": "PEURB"
+  },
+  {
+   "_id": {
+     "$oid": "60413b26be4ee304fc24db93"
+   },
+   "id": "60413b26be4ee304fc24db93",
+   "Nombre": "Smartly_Imagenes_BR",
+   "ProveedorId": "5d4c6d3dab6dc3122c109b59",
+   "PaisId": "Br"
+  },
+  {
+   "_id": {
+     "$oid": "60413b27be4ee304fc24db97"
+   },
+   "id": "60413b27be4ee304fc24db97",
+   "Nombre": "I24_Mexico_Trovit_CurrencyMXN",
+   "ProveedorId": "5cd575f70b2d5a146824f597",
+   "PaisId": "Mx"
+  },
+  {
+   "_id": {
+     "$oid": "60413b27be4ee304fc24db9b"
+   },
+   "id": "60413b27be4ee304fc24db9b",
+   "Nombre": "Facebook Product Listing Verified PE-AV",
+   "ProveedorId": "5cec9b19c1b25317c06a45d1",
+   "PaisId": "Pe"
+  },
+  {
+   "_id": {
+     "$oid": "60413b27be4ee304fc24db9f"
+   },
+   "id": "60413b27be4ee304fc24db9f",
+   "Nombre": "WI | Trovit",
+   "ProveedorId": "5c6f0f93aabfbf00c0abbc90",
+   "PaisId": "Br"
+  },
+  {
+   "_id": {
+     "$oid": "60413b29be4ee304fc24dba5"
+   },
+   "id": "60413b29be4ee304fc24dba5",
+   "Nombre": "IW-RENT-FB-Home-Listings",
+   "ProveedorId": "5c4f10320d40870a50f67f13",
+   "PaisId": "Br"
+  },
+  {
+   "_id": {
+     "$oid": "60413b29be4ee304fc24dba9"
+   },
+   "id": "60413b29be4ee304fc24dba9",
+   "Nombre": "Smartly_Urbania",
+   "ProveedorId": "5c9526c8622c7d1364163480",
+   "PaisId": "PEURB"
+  },
+  {
+   "_id": {
+     "$oid": "60413b2abe4ee304fc24dbad"
+   },
+   "id": "60413b2abe4ee304fc24dbad",
+   "Nombre": "Criteo_MX",
+   "ProveedorId": "5cc889d21debe60a84e4c104",
+   "PaisId": "Mx"
+  },
+  {
+   "_id": {
+     "$oid": "60413b2abe4ee304fc24dbb1"
+   },
+   "id": "60413b2abe4ee304fc24dbb1",
+   "Nombre": "COA-SALE-FB-Home-Listings",
+   "ProveedorId": "5c4f10320d40870a50f67f13",
+   "PaisId": "Pa"
+  }
+ ]
+}
